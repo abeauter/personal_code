@@ -1,2 +1,2 @@
 # personal_code
-scraps of scraps of scraps with a steaming pile of scrams 
+scraps of scraps of scraps with a steaming pile of scraps 
