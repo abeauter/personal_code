@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+
+require 'character'
+
+me = Character.new
+me.name = 'Avery'
+p me
