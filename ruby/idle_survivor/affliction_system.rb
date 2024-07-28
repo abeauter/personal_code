@@ -1,7 +1,7 @@
 #frozen_string_literal: true
 
 class AfflictionSystem
-	def initializor
+	def initialize
         #definitions retrieved from the Merriam-Webster Medical Dictionary
         @affliction_descriptions = {
 		  :cholera => 'Any of several diseases usually marked by severe vomiting and diarrhea.',
