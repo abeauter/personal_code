@@ -1,0 +1,26 @@
+class CharacterSkills,
+	def __init__():
+		self.characterSkillDescriptions = {
+			'Agility' : 'The abbility to move quickly and easily.',
+			'Animal Husbandry' : 'The ability to breed and care for animals.',
+			'Attack' : 'The ability to fend of beasts and humans alike.',
+			'Botany' : 'The ability to understand and exploit plants.',
+			'Cartography' : 'The ability to accuraetly map surroundings.',
+			'Cooking' : 'The ability to make edible food.',
+			'Crafting' : 'The ability to make things with your hands and other tools.',
+			'Defensive' : 'The ability to defend oneself from beasts and humans alike.',
+			'Food Preservation' : 'The ability to store food without it spoiling.',
+			'Harvesting' : 'The ability to extract the fruits of your bounty.',
+			'Healing' : 'The ability to heal oneself.',
+			'Hit-Points' : 'The ability to take a number of hits before fainting.',
+			'Hunting' : 'The ability to track and catch prey.',
+			'Mining' : 'The ability to extract precious ores.',
+			'Ranged' : 'The ability to adequately use ranged weapons.',
+			'Smithing' : 'The ability to turn ores into ingots and other useful items.',
+			'Sneak' : 'The ability to move without being seen.',
+			'Strength' : 'The ability to carry heavy items and weild special equipment.',
+			'Thieving' : 'The ability to "find" and extract useful items from others.',
+			'Township' : 'The ability to lead and assist a town in need.',
+			'Water-Gathering' : 'The ability to gather and adequately sanitize water.',
+			'Woodcutting' : 'The ablity to cut down trees and make use of its wood.'
+		}

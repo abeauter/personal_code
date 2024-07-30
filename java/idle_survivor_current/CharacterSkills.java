@@ -1,11 +1,9 @@
 import java.util.Dictionary;
 import java.util.Hashtable;
 
-public class CharacterSkills {
+public class CharacterSkills extends Character {
 
-	CharacterSkills(){};
-	
-	Dictionary<String, String> character_skill_descriptions = new Hashtable<> ();
+	Dictionary <String, String> character_skill_descriptions = new Hashtable<> ();
 
 	character_skill_descriptions.put("Agility",           "The abbility to move quickly and easily.");
 	character_skill_descriptions.put("Animal Husbandry",  "The ability to breed and care for animals.");
@@ -29,4 +27,4 @@ public class CharacterSkills {
 	character_skill_descriptions.put("Township",          "The ability to lead and assist a town in need.");
 	character_skill_descriptions.put("Water-Gathering",   "The ability to gather and adequately sanitize water.");
 	character_skill_descriptions.put("Woodcutting",       "The ablity to cut down trees and make use of its wood.");
-};
+}
